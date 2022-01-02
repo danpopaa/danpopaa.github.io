@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to have me as a friend
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Dan Popa** and I'm currently working in finance as a **Financial Controller**. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Over the years I worked for multinational companies and small startups, where I covered multiple finance areas, such as: 
+- **accounting** (Balance Sheet & Income statement - full ownership, Financial statements preparation, AP, AR, Fixed assests, Inventories, Cash, Payroll, etc)
+- **management & financial reporting** (forecast, budgeting, KPIs, identifying & explaining business drivers).
 
-What else do you need?
+Currently I'm learning **Python** as I'm looking to automate specific daily/monthly tasks.
 
-### My story
+Do you have any feedback to share with me, please feel free to contact me:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Twitter](https://twitter.com/danpopaa) / [LinkedIn](https://www.linkedin.com/in/dan-popa-8085357/)
